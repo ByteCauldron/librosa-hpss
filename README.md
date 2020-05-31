@@ -2,7 +2,7 @@
 
 ## @BYTECAULDRON
 
-[Video](https://librosa.github.io/librosa/index.html)
+[Video](https://www.youtube.com/watch?v=_AL-SdVem0g)
 [Documentation](https://librosa.github.io/librosa/index.html)
 [SoundFile Docs](https://pysoundfile.readthedocs.io/en/latest/)
 
